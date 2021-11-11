@@ -1,0 +1,18 @@
+.social-media-icons{
+   background-color: blue;
+   height: 30px; 
+}
+
+
+.search{
+background-color: yellow;
+height: 30px;
+}
+
+.main-manu ul li {
+display: inline;
+}
+
+.footer-menu ul li{
+   display: inline;
+}
