@@ -9,10 +9,26 @@ background-color: yellow;
 height: 30px;
 }
 
+ /* for menu */
+
 .main-manu ul li {
 display: inline;
 }
 
 .footer-menu ul li{
    display: inline;
+}
+
+/* For thumbnails  */
+.wp-post-image
+{
+float: left;
+margin: 0 15px 10px 0;
+}
+
+
+.post-categories ul li{
+display: inline;
+text-decoration: none;
+list-style-type: none;
 }
